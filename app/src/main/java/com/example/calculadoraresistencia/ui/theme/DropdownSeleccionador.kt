@@ -3,8 +3,8 @@ package com.example.calculadoraresistencia.ui.theme
 import androidx.compose.foundation.layout.Box
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
-import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
+
+
 
 
 @Composable
